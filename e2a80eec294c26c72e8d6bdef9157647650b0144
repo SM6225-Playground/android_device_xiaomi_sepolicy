@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c0edd4e_c0122d49",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-11-07T12:30:39Z",
+      "side": 1,
+      "message": "I don\u0027t have anything against this but what does it do? should we do it in common?",
+      "revId": "e2a80eec294c26c72e8d6bdef9157647650b0144",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    }
+  ]
+}
