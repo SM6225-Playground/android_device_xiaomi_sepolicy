@@ -34,6 +34,24 @@
       "parentUuid": "0c0edd4e_c0122d49",
       "revId": "e2a80eec294c26c72e8d6bdef9157647650b0144",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9807f460_8ca6a441",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000579
+      },
+      "writtenOn": "2023-11-07T17:24:41Z",
+      "side": 1,
+      "message": "can we merge it in common then?",
+      "parentUuid": "cd9907f5_65fd0f3f",
+      "revId": "e2a80eec294c26c72e8d6bdef9157647650b0144",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
