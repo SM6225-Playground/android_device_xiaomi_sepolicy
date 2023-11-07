@@ -16,6 +16,24 @@
       "message": "I don\u0027t have anything against this but what does it do? should we do it in common?",
       "revId": "e2a80eec294c26c72e8d6bdef9157647650b0144",
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cd9907f5_65fd0f3f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000737
+      },
+      "writtenOn": "2023-11-07T14:38:06Z",
+      "side": 1,
+      "message": "This is certainly used to set zram usage correctly in some scenarios or if modified by some application, this was taken from xiaomi dump, but qcom enables this by default in SM8450 rules to msmsteppe: https://git.codelinaro.org/clo/la/device/qcom/sepolicy_vndr/-/blob/LA.UM.10.9.1.r1.1/generic/vendor/msmsteppe/system_app.te?ref_type\u003dheads",
+      "parentUuid": "0c0edd4e_c0122d49",
+      "revId": "e2a80eec294c26c72e8d6bdef9157647650b0144",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     }
   ]
 }
