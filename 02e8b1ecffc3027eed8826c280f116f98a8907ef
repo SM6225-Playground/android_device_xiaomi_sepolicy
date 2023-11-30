@@ -18,6 +18,24 @@
       "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "32635e40_dd30be5d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000101
+      },
+      "writtenOn": "2023-11-30T09:07:14Z",
+      "side": 1,
+      "message": "Welp looks like typo in my camera sepolicy. Abandoning",
+      "parentUuid": "9829b244_c6e2eea0",
+      "revId": "02e8b1ecffc3027eed8826c280f116f98a8907ef",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "df810b80_eeb6bfb6",
