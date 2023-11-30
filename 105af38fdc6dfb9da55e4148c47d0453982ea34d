@@ -38,6 +38,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "7904898b_f1add17e",
+        "filename": "vendor/file.te",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 1000143
+      },
+      "writtenOn": "2023-11-30T09:27:20Z",
+      "side": 1,
+      "message": "Did you try to check if it got labeled properly? If not try to use restorecon on it.",
+      "parentUuid": "ebf0c359_077eeff8",
+      "revId": "105af38fdc6dfb9da55e4148c47d0453982ea34d",
+      "serverId": "3162e3d8-d894-470e-abd9-724f7b0effad"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "c2b55de2_6a25bf1c",
         "filename": "vendor/genfs_contexts",
         "patchSetId": 1
