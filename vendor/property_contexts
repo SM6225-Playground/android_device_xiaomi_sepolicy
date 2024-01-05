@@ -12,6 +12,8 @@ vendor.miui.vcamera.state                       u:object_r:vendor_camera_prop:s0
 vendor.panel.display                            u:object_r:vendor_camera_prop:s0
 vendor.vidhance.preview.vs.cropfactor           u:object_r:vendor_camera_prop:s0
 vendor.vidhance.video.vs.cropfactor             u:object_r:vendor_camera_prop:s0
+ro.vendor.audio.us.proximity                    u:object_r:vendor_us_proximity_prop:s0 exact bool
+ro.vendor.display.type                          u:object_r:vendor_display_type_prop:s0 exact string
 
 # Bluetooth
 persist.vendor.btstack.                         u:object_r:vendor_bluetooth_prop:s0
@@ -63,7 +65,6 @@ ro.vendor.display.set_fps_stat_timer_ms         u:object_r:vendor_displayfeature
 ro.vendor.display.skip_idle_for_90hz            u:object_r:vendor_displayfeature_prop:s0
 ro.vendor.display.switch_resolution.support     u:object_r:vendor_displayfeature_prop:s0
 ro.vendor.display.touch.idle.enable             u:object_r:vendor_displayfeature_prop:s0
-ro.vendor.display.type                          u:object_r:vendor_displayfeature_prop:s0
 ro.vendor.display.ultimate.perf.support         u:object_r:vendor_displayfeature_prop:s0
 ro.vendor.display.video_or_camera_fps.support   u:object_r:vendor_displayfeature_prop:s0
 ro.vendor.displayfeature.dump                   u:object_r:vendor_displayfeature_prop:s0
